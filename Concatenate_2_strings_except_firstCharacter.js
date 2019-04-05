@@ -5,6 +5,6 @@ function concatenate(str1, str2){
 }
 
 console.log(concatenate("Madhya","Pradesh"));
-console.log(conccatenate("West","bengal"));
+console.log(concatenate("West","bengal"));
 
 
